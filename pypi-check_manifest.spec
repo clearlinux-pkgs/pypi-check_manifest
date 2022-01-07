@@ -18,14 +18,14 @@ BuildRequires : buildreq-distutils3
 Provides: check-manifest
 Provides: check-manifest-python
 Provides: check-manifest-python3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(build)
 BuildRequires : pypi(setuptools)
 BuildRequires : pypi(toml)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 ==============
