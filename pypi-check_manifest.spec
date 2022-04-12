@@ -4,7 +4,7 @@
 #
 Name     : pypi-check_manifest
 Version  : 0.48
-Release  : 34
+Release  : 35
 URL      : https://files.pythonhosted.org/packages/d6/22/b22e353f0ca0660c35e78975f0529a9e8241c22ca16480783fa237212b82/check-manifest-0.48.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d6/22/b22e353f0ca0660c35e78975f0529a9e8241c22ca16480783fa237212b82/check-manifest-0.48.tar.gz
 Summary  : Check MANIFEST.in in a Python source package for completeness
@@ -84,7 +84,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1647270774
+export SOURCE_DATE_EPOCH=1649726726
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
