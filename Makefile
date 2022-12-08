@@ -1,5 +1,5 @@
 PKG_NAME := pypi-check_manifest
-URL = https://files.pythonhosted.org/packages/d6/22/b22e353f0ca0660c35e78975f0529a9e8241c22ca16480783fa237212b82/check-manifest-0.48.tar.gz
+URL = https://files.pythonhosted.org/packages/bc/b3/33f739b91114bd2c6f019f0fd2cc679e58bfb5bd0d56327021f97b85499a/check-manifest-0.49.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
