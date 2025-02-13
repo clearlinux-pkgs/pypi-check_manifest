@@ -7,7 +7,7 @@
 #
 Name     : pypi-check_manifest
 Version  : 0.50
-Release  : 51
+Release  : 52
 URL      : https://files.pythonhosted.org/packages/a8/ab/7607952f2c8d34c4124309dd3ea17c256fd3420a4ade01322daf9402b0b5/check_manifest-0.50.tar.gz
 Source0  : https://files.pythonhosted.org/packages/a8/ab/7607952f2c8d34c4124309dd3ea17c256fd3420a4ade01322daf9402b0b5/check_manifest-0.50.tar.gz
 Summary  : Check MANIFEST.in in a Python source package for completeness
